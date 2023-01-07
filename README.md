@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+### Languages, Tools & Tech 
+<p>
+- Hashicorp [Nomad, Consul, Vault, Boundary, Terraform]    
+</p>
+
+### Social Network
 <p>
     <a href="https://www.linkedin.com/in/vpelissi/" rel="nofollow"> <img align="left"
             src="img/linkedin.png"

@@ -3,7 +3,8 @@
 
 ### Languages, Tools & Tech 
 <p>
-- Hashicorp [Nomad, Consul, Vault, Boundary, Terraform]    
+- Hashicorp [Nomad, Consul, Vault, Boundary, Terraform]
+- IDE [Jetbrain, Atom, Sublime Text, Nano, Emacs, Xcode]    
 </p>
 
 ### Social Network

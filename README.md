@@ -3,9 +3,11 @@
 
 ### Languages, Tools & Tech 
 <p>
-- Hashicorp [Nomad, Consul, Vault, Boundary, Terraform]
-- IDE [Jetbrain, Atom, Sublime Text, Nano, Emacs, Xcode]    
+- Hashicorp [Nomad, Consul, Vault, Boundary, Terraform] <br/>
+- IDE [Jetbrain, Atom, Sublime Text, Nano, Emacs, Xcode] <br/>    
 </p>
+<br/>
+<br/>
 
 ### Social Network
 <p>
@@ -16,3 +18,5 @@
             src="img/github.png"
             alt="github" height="48px" style="max-width: 100%;"> </a>
 </p>
+<br/>
+<br/>

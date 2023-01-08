@@ -4,13 +4,13 @@
 <p>
 - Hashicorp [Nomad, Consul, Consul Template, Vault, Boundary, Terraform] <br/>
 - IDE [Jetbrain, Atom, Sublime Text, Nano, Emacs, Xcode] <br/>
-- Langage [Python, Solidity, Lua, Solidity]
-- Tools [Ansible, Nginx, Dnsmasq, Openresty, Luarocks, FusionAuth, Truffle, Hardhat]
-- CICD [GitHub action, Gitlab, Bitbucket, CircleCI, Travis CI]
-- Database [PostgreSQL, Mongo, Mysql]
-- Blockchain [Ethereum, Binance Smart Chain, Polygon]
-- Cloud Provider [AWS, Azure, GCP, Scaleway]    
-- Linux OS [RedHat familly, Debian Familly]    
+- Langage [Python, Solidity, Lua, Solidity] <br/>
+- Tools [Ansible, Nginx, Dnsmasq, Openresty, Luarocks, FusionAuth, Truffle, Hardhat] <br/>
+- CICD [GitHub action, Gitlab, Bitbucket, CircleCI, Travis CI] <br/>
+- Database [PostgreSQL, Mongo, Mysql] <br/>
+- Blockchain [Ethereum, Binance Smart Chain, Polygon] <br/>
+- Cloud Provider [AWS, Azure, GCP, Scaleway] <br/>    
+- Linux OS [RedHat familly, Debian Familly] <br/>   
 </p>
 
 ### Social Network

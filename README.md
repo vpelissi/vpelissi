@@ -2,8 +2,15 @@
 
 ### Languages, Tools & Tech 
 <p>
-- Hashicorp [Nomad, Consul, Vault, Boundary, Terraform] <br/>
-- IDE [Jetbrain, Atom, Sublime Text, Nano, Emacs, Xcode] <br/>    
+- Hashicorp [Nomad, Consul, Consul Template, Vault, Boundary, Terraform] <br/>
+- IDE [Jetbrain, Atom, Sublime Text, Nano, Emacs, Xcode] <br/>
+- Langage [Python, Solidity, Lua, Solidity]
+- Tools [Ansible, Nginx, Dnsmasq, Openresty, Luarocks, FusionAuth, Truffle, Hardhat]
+- CICD [GitHub action, Gitlab, Bitbucket, CircleCI, Travis CI]
+- Database [PostgreSQL, Mongo, Mysql]
+- Blockchain [Ethereum, Binance Smart Chain, Polygon]
+- Cloud Provider [AWS, Azure, GCP, Scaleway]    
+- Linux OS [RedHat familly, Debian Familly]    
 </p>
 
 ### Social Network
